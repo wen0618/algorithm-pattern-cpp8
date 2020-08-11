@@ -1,7 +1,7 @@
 # 算法模板
 # Version 1.20
 
-![来刷题了](/images/bl.png)
+![来刷题了](./images/bl.png)
 
 ## **Note:   2020/7:This is a cpp version of algorithm pattern. 
 Reference: https://github.com/greyireland/algorithm-pattern but changed sth. --by wen0.618**
