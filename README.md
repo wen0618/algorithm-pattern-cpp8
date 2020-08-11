@@ -38,7 +38,7 @@ Note 7/30:基本的保持原来的形式和分类，稍有添加，修改了对�
 - [滑动窗口思想](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/advanced_algorithm/slide_window.md)
 - [二叉搜索树](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/advanced_algorithm/binary_search_tree.md)
 - [回溯法](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/advanced_algorithm/backtrack.md)
-- [others](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/advanced_algorithm/%E5%9B%BD%E7%A7%91%E5%A4%A7%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E7%AC%94%E8%AE%B0)
+- [others](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/advanced_algorithm/UCASNote)
 ## Note by wen0.618:
 
 step: 
