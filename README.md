@@ -1,7 +1,7 @@
 # 算法模板
 # Version 1.20
 
-![来刷题了](https://github.com/wen0618/algorithm-pattern-cpp8-master/tree/master/images)
+![来刷题了](/images/bl.png)
 
 ## **Note:   2020/7:This is a cpp version of algorithm pattern. 
 Reference: https://github.com/greyireland/algorithm-pattern but changed sth. --by wen0.618**
@@ -16,29 +16,29 @@ Note 7/30:基本的保持原来的形式和分类，稍有添加，修改了对�
 
 ### 入门篇 🐶
 
-- [C++基础](https://github.com/wen0618/algorithm-pattern/blob/master/introduction/C++base.md)
-- [算法快速入门](https://github.com/wen0618/algorithm-pattern/blob/master/introduction/quickstart.md)
+- [C++基础](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/introduction/C++base.md)
+- [算法快速入门](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/introduction/quickstart.md)
 
 ### 数据结构篇 🐰
 
-- [二叉树](https://github.com/wen0618/algorithm-pattern/blob/master/data_structure/binary_tree.md)
-- [链表](https://github.com/wen0618/algorithm-pattern/blob/master/data_structure/linked_list.md)
-- [栈和队列](https://github.com/wen0618/algorithm-pattern/blob/master/data_structure/stack_queue.md)
-- [二进制](https://github.com/wen0618/algorithm-pattern/blob/master/data_structure/binary_op.md)
+- [二叉树](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/data_structure/binary_tree.md)
+- [链表](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/data_structure/linked_list.md)
+- [栈和队列](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/data_structure/stack_queue.md)
+- [二进制](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/data_structure/binary_op.md)
 
 ### 基础算法篇 🐮
 
-- [二分搜索](https://github.com/wen0618/algorithm-pattern/blob/master/basic_algorithm/binary_search.md)
-- [排序算法](https://github.com/wen0618/algorithm-pattern/blob/master/basic_algorithm/sort.md)
-- [动态规划](https://github.com/wen0618/algorithm-pattern/blob/master/basic_algorithm/dp.md)
+- [二分搜索](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/basic_algorithm/binary_search.md)
+- [排序算法](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/basic_algorithm/sort.md)
+- [动态规划](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/basic_algorithm/dp.md)
 
 ### 算法思维/模板 🦁
 
-- [递归思维](https://github.com/wen0618/algorithm-pattern/blob/master/advanced_algorithm/recursion.md)
-- [滑动窗口思想](https://github.com/wen0618/algorithm-pattern/blob/master/advanced_algorithm/slide_window.md)
-- [二叉搜索树](https://github.com/wen0618/algorithm-pattern/blob/master/advanced_algorithm/binary_search_tree.md)
-- [回溯法](https://github.com/wen0618/algorithm-pattern/blob/master/advanced_algorithm/backtrack.md)
-- [others](https://github.com/wen0618/algorithm-pattern/blob/master/advanced_algorithm/%E5%9B%BD%E7%A7%91%E5%A4%A7%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E7%AC%94%E8%AE%B0)
+- [递归思维](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/advanced_algorithm/recursion.md)
+- [滑动窗口思想](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/advanced_algorithm/slide_window.md)
+- [二叉搜索树](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/advanced_algorithm/binary_search_tree.md)
+- [回溯法](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/advanced_algorithm/backtrack.md)
+- [others](https://github.com/wen0618/algorithm-pattern-cpp8/blob/master/advanced_algorithm/%E5%9B%BD%E7%A7%91%E5%A4%A7%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E7%AC%94%E8%AE%B0)
 ## Note by wen0.618:
 
 step: 
