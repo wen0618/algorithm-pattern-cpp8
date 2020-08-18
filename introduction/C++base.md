@@ -6,8 +6,20 @@
 
 ## 常用容器
 
-### vector(un)
+### vector(un):
 
+而对于数组，计算机会在内存中为其申请一段 连续 的空间，并且会记下索引为 0 处的内存地址。
+假如我们想要访问索引为 2 处的元素 "D" 时，计算机会进行以下计算：
+
+找到该数组的索引 0 的内存地址： 2008；
+将内存地址加上索引值，作为目标元素的地址，即 2008 + 2 = 2010，对应的元素为 "D"，这时便找到了目标元素。
+
+
+类似一维数组，对于一个二维数组 A = [[1, 2, 3, 4],[2, 4, 5, 6],[1, 4, 6, 8]]，计算机同样会在内存中申请一段 连续 的空间，并记录第一行数组的索引位置，即 A[0][0] 的内存地址，它的索引与内存地址的关系如下图所示。
+
+v.back();
+删除：
+c.erase(p)//c.erase(b,e);
 .
 
 ### 栈stack
@@ -79,6 +91,8 @@ return:1 if an element with a key equivalent to k is found, or zero otherwise.
 
 sort
 
+//
+sort(intervals.begin(),intervals.end(),[](vector<int>& a,vector<int>& b){return a[0]<b[0];});
 ```go
 // int排序
 sort.Ints([]int{})
